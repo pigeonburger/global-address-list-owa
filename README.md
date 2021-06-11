@@ -3,7 +3,7 @@
 
 A request called `FindPeople` can be made that (with some small modifications) will allow you to get the entire Global Address List.
 
-In my testing, this script allowed me to get just under 5 seconds.
+In my testing, this script allowed me to get just under 5 seconds. As far as I know, this script only works with Exchange 2013 servers.
 
 # Usage
 
