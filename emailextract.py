@@ -6,7 +6,7 @@
 import requests, json, argparse
 
 # argparser hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-parser = argparse.ArgumentParser(description="Extract the Global Address List (GAL) on Exchange >=2013 servers via Outlook Web Access (OWA)")
+parser = argparse.ArgumentParser(description="Extract the Global Address List (GAL) on Exchange 2013 servers via Outlook Web Access (OWA)")
 parser.add_argument("-i", "--host", dest="hostname",
                   help="Hostname for the Exchange Server", metavar="HOSTNAME", type=str, required=True)
 parser.add_argument("-u", "--username", dest="username",
