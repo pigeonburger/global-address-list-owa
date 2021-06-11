@@ -30,7 +30,7 @@ print("Connecting to %s/owa" % url)
 
 
 # Get OWA landing page
-# Add https:// scheme if not already added in the --hostname arg
+# Add https:// scheme if not already added in the --host arg
 try:
     s.get(url+"/owa")
     URL = url
