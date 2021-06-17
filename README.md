@@ -3,7 +3,7 @@
 
 A request called `FindPeople` can be made that (with some small modifications) will allow you to get the entire Global Email Address List for your organisation.
 
-In my testing, this script allowed me to get just under 5 seconds. As far as I know, this script only works with Exchange 2013 servers.
+In my testing, this script allowed me to get just under 5000 emails in about 5 seconds. As far as I know, this script only works with Exchange 2013 servers.
 
 # Usage
 
